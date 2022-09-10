@@ -20,16 +20,46 @@ body {
 
 .navWrapper {
   margin-bottom: 2%;
+  align-items: center;
+  position:relative;
+  left: 400px;
+  top: 25px;
 }
 
 .filterWrapper {
   margin: 2% 0% 2% 0%;
 }
 
+.buttonMargin {
+  margin: 20px
+}
+
+.searchBar {
+  position: relative;
+  top: 50px;
+  left: 100px;
+}
+
+.searchBar input, select{
+  margin-right: 20px
+}
+
+.formInput {
+  position: relative;
+  left: 250px;
+  top: 75px;
+}
+
 .headerText {
   color: #F5A9BC;
   font-size: 3em;
   margin: 0% 2% 0% 2%;
+}
+
+.positionContainer {
+  position: relative;
+  left: 200px;
+  top: 150px;
 }
 
 .largeHeader {

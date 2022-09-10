@@ -101,3 +101,19 @@ const hogs = [
 ];
 
 export default hogs;
+
+// const [hogFormData, setHogFormData] = useState({
+//   name: '',
+//   specialty: '',
+//   greased: false,
+//   weight: 0.0,
+//   "highest medal achieved": "",
+//   image: '',
+// })
+
+{/* <div class="ui form">
+  <div class="fields">
+    <div class="field">
+      <label>First name</label>
+      <input type="text" placeholder="First Name">
+    </div> */}
